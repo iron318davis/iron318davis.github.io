@@ -1,2 +1,2 @@
-# iron318davis.github.io
-Portfolio
+# HomeworkWeek2
+Profile using responsive layout and images
